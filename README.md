@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @HimaSava
+- 👋 Hi, I’m @HimaSava <br>
+  [My personal Website](himasava.tech)
+  
 - 👀 I’m interested in ...
  > Electronics <br>
  > Making random proj in python <br>
