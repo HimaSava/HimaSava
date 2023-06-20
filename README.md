@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HimaSava <br>
-  [My personal Website](himasava.tech)
+  [My personal Website](https://www.himasava.tech)
   
 - 👀 I’m interested in ...
  > Electronics <br>
